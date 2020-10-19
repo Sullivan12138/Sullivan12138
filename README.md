@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on HUST
+- 🔭 I’m currently working on Huazhong University of Science and Technology
 - 🌱 I’m currently learning tensorflow
 - 👯 I’m looking to collaborate on CSers
 - 🤔 I’m looking for help with storage
