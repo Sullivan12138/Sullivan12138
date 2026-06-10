@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Huazhong University of Science and Technology
-- 🌱 I’m currently learning tensorflow
-- 👯 I’m looking to collaborate on CSers
-- 🤔 I’m looking for help with storage
-- 💬 Ask me about Python
-- 📫 How to reach me: 2909683353@qq.com
-- 😄 Pronouns: Lazy
-- ⚡ Fun fact: I never brush my teeth at night
